@@ -1,0 +1,5 @@
+telethon
+flask
+pymongo
+dnspython
+pytelegrambotapi
